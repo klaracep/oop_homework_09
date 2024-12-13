@@ -1,4 +1,4 @@
-# oop_homework_10
+# OOP homework 09
 
 ## Author
 **Klára Čepová**
